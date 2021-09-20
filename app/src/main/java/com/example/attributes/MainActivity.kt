@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
             edittext.setTextSize(8f)
         }
         changeSize1.setOnClickListener {
-            edittext.setTextSize(24f)
+            edittext.setTextSize(25f)
         }
         blackText.setOnClickListener {
             edittext.setTextColor(Color.BLACK)
